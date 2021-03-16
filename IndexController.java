@@ -169,7 +169,7 @@ public class IndexController extends BaseController {
     	   String hours=drpConfig.getP21();
            Date nextOpeningTime=this.gameOrderManager.getNextOpeningTimeForHours(hours) ; 
            model.addAttribute("downTime", nextOpeningTime.getTime());
-           model.addAttribute("nextOpeningTime", nextOpeningTime);
+           model.addAttribute("nextOpeningTime", nextOpeningTime); 
        }
     }
 
