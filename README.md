@@ -1,36 +1,36 @@
 # Aslan-Defi
-（一） Aslanes Defi 平台是建立在一套具有透明性和包容性的智能交易系统。实现去中心化智能化的经济流通形态，将信任风险做到开源化，满足全球用户及机构对资金短期的流动性需求做到公平、公正、公开。
+(1) The ASLanes Defi platform is built on a set of transparent and inclusive intelligent trading systems. Realize the decentralized and intelligent economic circulation form, open source the trust risk, and meet the short-term liquidity needs of global users and institutions to be fair, just and open.
 
- Aslan Defi ,它是有伦敦Aslan区块链实验室设计的，这里是区块链了精英荟萃的聚集地，实验室通过长期在区块链领域的不断探索设计出这套模型。在当今，区块链技术面临历史上电发明后的同样情势，技术已经成熟，但应用却很稀少，成功案例更是凤毛麟角，更无杀手级应用。Asla 区块链实验室，为区块链技术的落地应用，开展研究、开发及推广工作，以推广区块链技术的落地应用为目标。
-    
-Aslan Def它是全球第一个去中心化智能交易平台，它是传统区块链交易所的更新迭代产品，就像传统手机与智能手机一样，有很大的跨度的升级。它规避了传统交易平台的一些弊端，比如：
+Aslan Defi, which was designed by the London Aslan Blockchain Lab, is a gathering place for the elite of blockchain. The lab designed this model through long-term exploration in the field of blockchain. In today's world, blockchain technology faces the same situation as it did after the invention of electricity in history. The technology is mature, but applications are few and far between. Successful cases are even more rare, let alone killer applications. ASLA Blockchain Lab, for the application of blockchain technology, carries out research, development and promotion work, with the goal of promoting the application of blockchain technology.
 
-A:平台中心化，需要长期盯盘，暴涨暴跌不可控，风险高，操作复杂收益时间漫长且不稳定，提现需要人工审核，到账周期长。 B:优化升级了：平台完全去中心化运转，可在任何浏览器里面访问，无人为干涉，交易自由，风险系数低，风险可控且收益高，提现智能合约执行秒到账。
+Aslan Def is the world's first decentralized intelligent trading platform. It is an updated and iterative product of the traditional blockchain exchange, just like the traditional mobile phone and smart phone, with a large span of upgrading. It avoids some of the drawbacks of traditional trading platforms, such as:
 
-	Aslan Defi的意思就是做整个去中心金融的引领者。
+A: The platform is centralized, requiring long-term tracking, uncontrollable boom and slump, high risk, complex operation, long and unstable profit time, manual audit for withdrawal, and long period of account arrival. B: Optimized and upgraded: the platform is fully decentralized, accessible in any browser, free of human intervention, free of transaction, low risk coefficient, controllable risk and high return, and the smart contract withdrawal can be delivered to the account within seconds.
 
-（二）Aslan Defi系统操作方面做了全方面的迭代升级:
+Aslan Defi means to be the leader of the whole decentralized finance.
 
-A:传统的DAPP需要依赖于传统去中心化钱包内置的DAPP浏览器才可访问合约系统，通过去中心化钱包地址才可交互式链接合约钱包地址来触发合约执行任务。
+(II) The operation of the Aslan Defi system has been upgraded in all aspects:
 
-普通浏览器登录合约系统，因无钱包地址无法识别合约，从而合约系统就无法直接交互链接触发合约执桁任务。
+A: The traditional dApp needs to rely on the dApp browser built into the traditional decentralized wallet to access the contract system. Only through the decentralized wallet address can the contract wallet address be interactively linked to trigger the contract execution task.
 
-B.我们优化升级了DAPP钱包地址与合约地址的交互链接方式以及平台的操作性。
+Ordinary browsers log in the contract system, and the contract system cannot recognize the contract because there is no wallet address, so the contract system cannot directly interact with the link to trigger the contract holder task.
 
- C.任何其他钱包地址不能代替您的钱包地址来触发合同代码以完成您的任务。合同代码在区块链上独立运行，只能使用您的钱包地址与节点服务器进行信息交互，因此合同系统在运行期间
+B. We have optimized and upgraded the interactive link between the dApp wallet address and the contract address as well as the operability of the platform.
 
-达到零反馈与零故障。
+C. No other wallet address can trigger the contract code to complete your task in place of your wallet address. The contract code runs independently on the blockchain and can only use your wallet address to interact with the node server for information, so the contract system is in operation
 
-D.合约系统创建团队意外消失:发布系统合同代码后，创建团队的意外消失并不会影响合同代码的自动执行。合同代码的逻辑设计是完全分散的，用户并具有自主投票集体决策权，因此创建者的消 失不会影响系统的运行，类似于比特币系统。
+Achieve zero feedback with zero failure.
 
-E.在DeFi操作板块，系统通过API调取CoinBase Pro、币安网、火币全球站等世界排名三大区块链交易所BTC的K线数据来保证数据的安全，同时做到公平、公正、公开。
+D. Accidental disappearance of the contract system creation team: After the release of the system contract code, the accidental disappearance of the creation team will not affect the automatic execution of the contract code. The logical design of the contract code is completely decentralized, and the users have the right to vote collectively, so the loss of the creator will not affect the operation of the system, similar to the Bitcoin system.
 
-（三）Aslan Defi运行方式:
+E. In the operation plate of DEFI, the system uses API to obtain the K-line data of BTC, the world's three largest blockchain exchanges, such as Coinbase Pro, Bincanet, Huobi Global Station, to ensure the security of the data and achieve fairness, justice and openness at the same time.
 
-在这个分布式体系里面，没有任何的中央机构，完全实现去中心化的全球流通与智能返回。
+(3) running mode of LAN DEFI:
 
-所有参与者无需注册，无需提现。只需绑定自己的USDT（TRC20）钱包地址，即可进行资金的全球流通与智能返回。
+In this distributed system, there is no central institution to fully realize decentralized global circulation and intelligent return.
 
-（四）Aslan Defi优势：
+All participants do not need to register and do not need to withdraw. Just bind their own USDT (TRC20) wallet address, you can carry out the global circulation of funds and intelligent return.
 
-A.真正的去中心化流通，分布式金融，所有规则全部上链，永远无法篡改。 B.任意金额都能自由流通和返回，即便只有 0.0001USDT也能够记录在区块链账本上。 C.所有的资金流通与返回均由智能合约自动执行，不受人为干预。 D.所有数据公开透明、参与者自由灵活选择。 E.钱包地址就是您的账户，无需任何个人资料， 保障个人的隐私。 F.网页端只是链上数据显示端口，即便遭受DOSS攻击，造告成短时间无法打开，但是数据是写在链上去中心化的，永远无法去被外攻击更改，您参与流通的的任何一笔资金包含每一笔奖励，都会自动返回至您的钱包地址。
+(4) Advantages of Aslan Defi:
+
+A. Truly decentralized circulation, distributed finance, all the rules are all on the chain, can never be tampered with. B. Any amount can be freely circulated and returned, even as little as 0.0001USDT can be recorded in the blockchain ledger. C. All capital flows and returns are automatically executed by the smart contract without human intervention. D. All data are open and transparent, and participants can choose freely and flexibly. E. Wallet address is your account, without any personal information, to protect personal privacy. F. The web side is only the data display port on the chain. Even if it is attacked by Doss, it cannot be opened in a short time, but the data is written on the chain and is centralized, which can never be changed by external attacks.
