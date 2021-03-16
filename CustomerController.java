@@ -61,17 +61,17 @@ public class CustomerController extends BaseController {
 			results.put("totalStaticBonus", customer.getTotalStaticIncome()!=null?customer.getTotalStaticIncome():BigDecimal.ZERO);
 			results.put("totalIncome", customer.getTotalIncome()!=null?customer.getTotalIncome():BigDecimal.ZERO);
 			
-			results.put("realseBonus", customer.getRealseBonus()!=null?customer.getRealseBonus():BigDecimal.ZERO);	//可释放奖金
-			results.put("restRealseBonus", customer.getRestRealseBonus()!=null?customer.getRestRealseBonus():BigDecimal.ZERO);	//待可释放奖金
-			results.put("dynamicBonus", customer.getTotalDynamicIncome()!=null?customer.getTotalDynamicIncome():BigDecimal.ZERO);//累计奖金	
-			results.put("ew", customer.getEw()!=null?customer.getEw():BigDecimal.ZERO);	//极差奖金
-			results.put("rw", customer.getRw()!=null?customer.getRw():BigDecimal.ZERO);	//平级奖金
-			results.put("balance", customer.getBalance()!=null?customer.getBalance():BigDecimal.ZERO);//直推奖金	
-			results.put("dw", customer.getDw()!=null?customer.getDw():BigDecimal.ZERO);	//代币
+			results.put("realseBonus", customer.getRealseBonus()!=null?customer.getRealseBonus():BigDecimal.ZERO);	
+			results.put("restRealseBonus", customer.getRestRealseBonus()!=null?customer.getRestRealseBonus():BigDecimal.ZERO);	
+			results.put("dynamicBonus", customer.getTotalDynamicIncome()!=null?customer.getTotalDynamicIncome():BigDecimal.ZERO);
+			results.put("ew", customer.getEw()!=null?customer.getEw():BigDecimal.ZERO);	
+			results.put("rw", customer.getRw()!=null?customer.getRw():BigDecimal.ZERO);	
+			results.put("balance", customer.getBalance()!=null?customer.getBalance():BigDecimal.ZERO);
+			results.put("dw", customer.getDw()!=null?customer.getDw():BigDecimal.ZERO);	
 			
 			BigDecimal fixedAmount= customer.getFixedAmount()!=null?customer.getFixedAmount():BigDecimal.ZERO;
 			BigDecimal maxAmtPerTimes=fixedAmount.divide(new BigDecimal(maxTimes),2,BigDecimal.ROUND_HALF_UP);
-			results.put("maxAmtPerTimes", maxAmtPerTimes);//包赔场参与金额	
+			results.put("maxAmtPerTimes", maxAmtPerTimes);
 				
 			results.put("subordinateQty", customer.getSubordinateQty()!=null?customer.getSubordinateQty():0);
 			
@@ -107,14 +107,14 @@ public class CustomerController extends BaseController {
 			results.put("totalStaticBonus", BigDecimal.ZERO);
 			results.put("totalIncome", BigDecimal.ZERO);			
 			
-			results.put("realseBonus", BigDecimal.ZERO);//可释放奖金
-			results.put("restRealseBonus", BigDecimal.ZERO);//待可释放奖金
-			results.put("dynamicBonus", BigDecimal.ZERO);//累计奖金	
-			results.put("ew", BigDecimal.ZERO);	//极差奖金
-			results.put("rw", BigDecimal.ZERO);	//平级奖金
-			results.put("balance", BigDecimal.ZERO);//直推奖金	
+			results.put("realseBonus", BigDecimal.ZERO);
+			results.put("restRealseBonus", BigDecimal.ZERO);
+			results.put("dynamicBonus", BigDecimal.ZERO);
+			results.put("ew", BigDecimal.ZERO);	
+			results.put("rw", BigDecimal.ZERO);	
+			results.put("balance", BigDecimal.ZERO);
 			
-			results.put("maxAmtPerTimes", BigDecimal.ONE);//包赔场参与金额	
+			results.put("maxAmtPerTimes", BigDecimal.ONE);
 			
 			results.put("subordinateQty", 0);
 			
